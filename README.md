@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Wridho788
 - 👀 I’m interested in programming, code, etc,
 - 🌱 I’m currently learning javascript (reactjs), and litle bit of nodejs
-- 💞️ I’m looking to collaborate .. i dont know yet 
+- 💞️ I’m looking to collaborate ..
 - 📫 How to reach me on ig: @ridhowahyoe
 
 <!---
