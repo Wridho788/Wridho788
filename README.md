@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wridho788
 - 👀 I’m interested in programming, code, etc,
-- 🌱 I’m currently learning javascript (reactjs), and litle bit of nodejs
+- 🌱 I’m currently learning javascript and typescript (reactjs, react native, vuejs, nextjs), and litle bit of nodejs
 - 💞️ I’m looking to collaborate ..
 - 📫 How to reach me on ig: @ridhowahyoe
 
