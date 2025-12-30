@@ -1,11 +1,47 @@
-- 👋 Hi, I’m @Wridho788
-- 👀 I’m interested in programming, code, etc,
-- 🌱 I’m currently use vitejs (reactjs and vuejs) and litle bit of nodejs, laravel, and docker. 
-- 💞️ I’m looking for trouble what you can make it right...
-- 📫 How to reach me on ig: @ridhowahyoe, and here's my portfolio website 
-https://ridho-portfolio.vercel.app
+# Hi, I’m Ridho 👋
 
-<!---
-Wridho788/Wridho788 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Frontend & Mobile Engineer with experience building production-ready web and mobile applications.
+
+I specialize in designing scalable, maintainable user interfaces and frontend systems with a strong focus on performance, clean architecture, and real-world business needs.
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**
+- React.js, TypeScript, Next.js
+- Tailwind CSS, Bootstrap
+
+**Mobile**
+- React Native (Expo)
+- Flutter
+- Android (Kotlin)
+
+**State & Data**
+- Redux, Zustand, React Query
+
+**Others**
+- REST API Integration
+- Performance Optimization
+- Git & Modern Frontend Tooling
+
+---
+
+## 🚀 What I Do
+
+- Build scalable web and mobile applications
+- Design clean frontend architecture
+- Optimize performance and data flow
+- Translate product requirements into maintainable code
+
+---
+
+## 🔗 Links
+
+- 🌐 Portfolio: https://ridho-portfolio.vercel.app  
+- 💼 LinkedIn: https://www.linkedin.com/in/ridho-wahyu-nugroho-4a1544142/ 
+- 📧 Email: wridho246@gmail.com
+
+---
+
+Always interested in meaningful projects and engineering discussions.
